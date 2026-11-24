@@ -1,0 +1,24 @@
+<Solution>
+  <Project Path="Lesson10函数重载/Lesson10函数重载.csproj" Id="75e615e1-11b5-4f1f-9a31-1111259cfe49" />
+  <Project Path="Lesson11递归函数/Lesson11递归函数.csproj" Id="4fa49787-44c9-4ce4-91a5-1a4e49682642" />
+  <Project Path="Lesson11递归函数练习题/Lesson11递归函数练习题.csproj" Id="a0feb129-996b-48ec-8d94-6e557e3ab7f6" />
+  <Project Path="Lesson12结构体/Lesson12结构体.csproj" Id="84b20298-c7f6-4793-842f-431b2e325426" />
+  <Project Path="Lesson12结构体练习题/Lesson12结构体练习题.csproj" Id="aa98e06d-0c0d-4787-b871-e024cbad6367" />
+  <Project Path="Lesson13冒泡排序/Lesson13冒泡排序.csproj" Id="a460b6a8-d1b0-4fe8-84ae-2ef0348a7aa9" />
+  <Project Path="Lesson13冒泡排序练习题/Lesson13冒泡排序练习题.csproj" Id="85ec2fea-4ee8-4089-b7fd-e6061b461fba" />
+  <Project Path="Lesson14选择排序/Lesson14选择排序.csproj" Id="99e6d541-6a35-4268-8d2e-4b95bec810df" />
+  <Project Path="Lesson14选择排序练习题/Lesson14选择排序练习题.csproj" Id="d6583af7-5ccc-4d85-a9f3-798a579bb51c" />
+  <Project Path="Lesson1枚举/Lesson1枚举.csproj" />
+  <Project Path="Lesson1枚举练习题/Lesson1枚举练习题.csproj" />
+  <Project Path="Lesson2一维数组/Lesson2一维数组.csproj" />
+  <Project Path="Lesson2一维数组练习题/Lesson2一维数组练习题.csproj" />
+  <Project Path="Lesson3二维数组/Lesson3二维数组.csproj" />
+  <Project Path="Lesson3二维数组练习题/Lesson3二维数组练习题.csproj" />
+  <Project Path="Lesson4交错数组/Lesson4交错数组.csproj" />
+  <Project Path="Lesson5值类型和引用类型/Lesson5值类型和引用类型.csproj" />
+  <Project Path="Lesson6特殊引用类型string/Lesson6特殊引用类型string.csproj" />
+  <Project Path="Lesson7函数/Lesson7函数.csproj" />
+  <Project Path="Lesson7函数练习题/Lesson7函数练习题.csproj" Id="0af1b9c2-e5eb-46c0-827c-d897dfb93585" />
+  <Project Path="Lesson8 ref和out/Lesson8 ref和out.csproj" Id="29c95010-54b4-4a41-855b-0ff738f55aa8" />
+  <Project Path="Lesson9变长参数和参数默认值/Lesson9变长参数和参数默认值.csproj" Id="8dbf26af-69a2-488e-a70b-c2d3c5292a5e" />
+</Solution>
